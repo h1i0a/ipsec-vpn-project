@@ -22,7 +22,7 @@ We configured two routers (R1 and R3) to establish a secure encrypted tunnel ove
 
 ## 🛠️ Implementation
 ### Network Topology
-![Network Topology](docs/screenshots/topology.png)  
+![Network Topology](docs/screenshots/topology.jpg)  
 *(Add your topology screenshot here)*
 
 - **R1 ↔ R3:** VPN endpoints  
@@ -60,7 +60,7 @@ We configured two routers (R1 and R3) to establish a secure encrypted tunnel ove
 
 ## ✅ Verification
 1. Verified baseline connectivity with `ping` and `tracert`.  
-   ![Ping Test](docs/screenshots/ping.png)  
+   ![Ping Test](docs/screenshots/ping.jpg)  
 2. Observed Security Associations with:  
    ```bash
    show crypto isakmp sa
