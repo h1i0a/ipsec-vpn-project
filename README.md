@@ -129,20 +129,23 @@ The project provided hands-on experience in:
 🔮 *Future work:* add real-time monitoring, simulate attacks, and test advanced encryption algorithms.  
 
 ---
-
 ## 📂 Repository Contents
+
+```text
 ipsec-vpn-project/
-│── README.md
-│── /docs
-│ ├── project-report.pdf
-│ ├── Poster.pdf
-│ ├── Presentation.pptx
-│ ├── screenshots/
-│ ├── topology.jpg
-│ ├── ping.jpg
-│ ├── tracert.jpg
-│ ├── ipsec.png
-│ ├── Noipsec.png
-│── /packet-tracer
-│ ├── Ipsec_tunnel.pkt
-│ ├── No_Ipsec_tunnel.pkt
+├── README.md
+├── docs/
+│   ├── project-report.pdf
+│   ├── Poster.pdf
+│   ├── Presentation.pptx
+│   ├── poster2.pptx
+│   └── screenshots/
+│       ├── topology.jpg
+│       ├── ping.jpg
+│       ├── tracert.jpg
+│       ├── ipsec.png
+│       └── Noipsec.png
+└── packet-tracer/
+    ├── Ipsec_tunnel.pkt
+    └── No_Ipsec_tunnel.pkt
+
