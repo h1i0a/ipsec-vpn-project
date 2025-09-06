@@ -131,3 +131,18 @@ The project provided hands-on experience in:
 ---
 
 ## 📂 Repository Contents
+ipsec-vpn-project/
+│── README.md
+│── /docs
+│ ├── project-report.pdf
+│ ├── Poster.pdf
+│ ├── Presentation.pptx
+│ ├── screenshots/
+│ ├── topology.jpg
+│ ├── ping.jpg
+│ ├── tracert.jpg
+│ ├── ipsec.png
+│ ├── Noipsec.png
+│── /packet-tracer
+│ ├── Ipsec_tunnel.pkt
+│ ├── No_Ipsec_tunnel.pkt
